@@ -3,7 +3,7 @@
 > 실습날자 : 2021년 11월 24일 웹프로그램밍 실습 markdown 연습
 ---  
 # 1. Responsive Web Design(RWD.html, RWD.css)
-    > box-sizing: border-box 가 핵심임.박스를 만들어서 거기에 다 넣는다.
+    > box-sizing: border-box 가 핵심임.박스를 만들어서 거기에 다 넣는다.  
     css에서 이 값을 안주면 padding 값에 따라서 박스이 크기가 변하게 된다.
 
     > Viewport 웹페이지의 보이는 부분이다. 데스크탑에서는 상대적으로 넓고(최소 1024px ~ 최대 4096정도?), 스마트폰이나 테블릿에서는 상대적으로 좁다(커 봐야 400px ~ 800px 정도). 예제는
