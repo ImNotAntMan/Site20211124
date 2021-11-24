@@ -4,8 +4,7 @@
 ---  
 # 1. Responsive Web Design(RWD.html, RWD.css)
     > CSS display관련 block과 in-line의 차이점 복습  
-    역시 연습 안하면 까먹음을 다시 한번 알았다.  
-    까먹어도 안 배웠다고 우기자.  알고 나서 부끄러워하고 사과하자.  
+    역시 연습 안하면 까먹음.  
     인라인 https://www.w3schools.com/css/tryit.asp?filename=trycss_display_inline_list  
     블락 https://www.w3schools.com/css/tryit.asp?filename=trycss_display_block
     > box-sizing: border-box 가 핵심임.박스를 만들어서 거기에 다 넣는다.  
