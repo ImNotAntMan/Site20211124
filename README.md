@@ -32,20 +32,19 @@
 # 2. CSS Grid
     > RWD(반응형 웹디자인) Grid과 달리 열과 행을 이용해서 Layout 제작  
     특히 float과 position을 사용하지 않고 구현하는 것이 특징이다. 이걸 보면  w3c가 html5 발표 후 놀은게 아니라 꾸준하게 업데이트를 한다는 점이다. 다음에 공부할 Flexbox도 보면 최신 버젼의 브라우저에서만 동작한다. 
-    어쨌든  그리드 *레이아웃은 반드시 부모 요소(element)를 가지면서* display 속성(property)은 grid 또는 inline-grid 를 가져야 한다(display: grid  또는   display: inlie-grid). 
+    어쨌든  *그리드 레이아웃은 반드시 부모 요소(element)를 가지면서* display 속성(property)은 grid 또는 inline-grid 를 가져야 한다(display: grid  또는   display: inlie-grid). 
     > grid-container라는 박스, grid-item라는 구성요소 두가지가 있음.
-    하옇든 grid-template-areas:  blabla....
-    css에서 
+    하옇든 css에서  
     grid-template-areas: 
     'header header header header header header'
     'menu main main main right right'
     'menu footer footer footer footer footer'
     'menu bottom bottom bottom bottom bottom'
     'final final final final final final';
-    그리고 5단 레이아웃  
+    이렇게 5단 레이아웃 만들었음.
     naming을 이용하는게 편하다.
     https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named
 
 
-# 2. CSS Flexbox
+# 3. CSS Flexbox
 
